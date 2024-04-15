@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm Doraigo
 
-<!--
-**Doraigo/Doraigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate web developer who loves to create awesome things on the web! Currently, I'm diving deep into React and exploring its endless possibilities. 🚀
 
-Here are some ideas to get you started:
+## What I Do
+- 💻 Frontend Development
+- 🌐 Web Design
+- 📱 Responsive Web Development
+- ☕ Java Development
+- 🖥️ Backend Development
+- 🗃️ Database Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- HTML5
+- CSS3 & SASS
+- JavaScript & ES6
+- React.js
+- Java
+- Node.js
+- Express.js
+- SQL & NoSQL Databases
+- Git & GitHub
+
+## What I'm Learning
+I'm currently focused on mastering React and enhancing my skills in frontend development. Learning is a never-ending journey, and I'm always excited to explore new technologies and frameworks! 📚
+
+## Let's Connect!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/doraigo). Let's learn and grow together! 💬
