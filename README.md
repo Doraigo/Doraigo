@@ -24,6 +24,7 @@ I'm a passionate web developer who loves to create awesome things on the web! Cu
 
 ## What I'm Learning
 I'm currently focused on mastering React and enhancing my skills in frontend development. Learning is a never-ending journey, and I'm always excited to explore new technologies and frameworks! 📚
+
 [![roadmap.sh](https://roadmap.sh/card/tall/672419e431d65c235df30ba4?variant=dark&roadmaps=backend%2Cgolang%2Clinux%2Cfull-stack)](https://roadmap.sh)
 
 ## Let's Connect!
